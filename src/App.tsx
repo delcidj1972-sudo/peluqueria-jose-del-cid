@@ -38,6 +38,7 @@ const SERVICIOS: Servicio[] = [
     id: '1',
     nombre: 'Corte de Autor',
     descripcion: 'Diseños personalizados que realzan tu belleza natural y estilo.',
+    imagen: 'https://i.postimg.cc/c1RZtT67/CORTE-PELUQUERIA-WEB.png',
     icono: <Scissors className="w-6 h-6" />,
   },
   {
